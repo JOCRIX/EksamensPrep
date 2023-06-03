@@ -1,0 +1,13 @@
+MATH
+FFT(Ch1), Span 2.50kHz, Center 1.2500kHz, Window Hanning, Scale 10dB/, Offset -30.048dBV
+
+TRIGGER
+Sweep Mode Auto, Coup DC, Noise Rej On, HF Rej On, Holdoff 4.7060000ms
+Mode Edge, Source Ch 1, Slope Rising, Level 3.65000V
+
+HORIZONTAL
+Mode Normal, Ref Center, Main Scale 1.000s/, Main Delay 20.000000us
+
+ACQUISITION
+Mode Normal, Realtime On, Vectors On, Persistence Off
+
